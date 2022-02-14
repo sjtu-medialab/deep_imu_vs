@@ -11,5 +11,5 @@ Each folder contains three files:
 The full results shown in the quantitative comparison sunsection.
 
 ## compare_7_scenarios1.mp4
-The Video comparisons for all the seven scenarios.
+The Video comparison for all the seven scenarios.
 
